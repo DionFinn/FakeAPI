@@ -1,0 +1,25 @@
+{
+
+  "hero": [
+
+    {"HeroID": 1, "HeroName": "Agam", "minDice": 2, "maxDice": 4, "uses": 3},
+    {"HeroID": 2, "HeroName": "Dion", "minDice": 5, "maxDice": 8, "uses": 2},
+    {"HeroID": 3, "HeroName": "Anh", "minDice": 4, "maxDice": 9, "uses": 3},
+    {"HeroID": 4, "HeroName": "Karen", "minDice": 7, "maxDice": 8, "uses": 1}
+    ],
+    "Villain" : [
+    { "VillainID": 1, "villanName": "BadGuy1", "AttackPoints":2},
+    { "VillainID": 2, "villanName": "BadGuy2", "AttackPoints":4},
+    { "VillainID": 3, "villanName": "BadGuy3", "AttackPoints":6}
+    ],
+       "Game" : [
+    {"gameTime":"21/02/2021","winner":"Villains Won"},
+     { "gameTime":"22/08/2021","winner":"Heroes Won"}
+     ],
+  "profile": {
+
+    "name": "DionFinn"
+
+  }
+
+}
