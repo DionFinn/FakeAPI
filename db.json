@@ -2,7 +2,7 @@
 
   "hero": [
 
-    {"HeroID": 1, "HeroName": "Agam", "minDice": 2, "maxDice": 4, "uses": 3},
+    {"HeroID": 1, "heroName": "Agam", "minDice": 2, "maxDice": 4, "uses": 3},
     {"HeroID": 2, "HeroName": "Dion", "minDice": 5, "maxDice": 8, "uses": 2},
     {"HeroID": 3, "HeroName": "Anh", "minDice": 4, "maxDice": 9, "uses": 3},
     {"HeroID": 4, "HeroName": "Karen", "minDice": 7, "maxDice": 8, "uses": 1}
