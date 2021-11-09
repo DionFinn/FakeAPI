@@ -2,15 +2,15 @@
 
   "hero": [
 
-    {"HeroID": 1, "heroName": "Agam", "minDice": 2, "maxDice": 4, "uses": 3},
-    {"HeroID": 2, "HeroName": "Dion", "minDice": 5, "maxDice": 8, "uses": 2},
-    {"HeroID": 3, "HeroName": "Anh", "minDice": 4, "maxDice": 9, "uses": 3},
-    {"HeroID": 4, "HeroName": "Karen", "minDice": 7, "maxDice": 8, "uses": 1}
+    {"heroID": 1, "heroName": "Agam", "minDice": 2, "maxDice": 4, "uses": 3},
+    {"heroID": 2, "heroName": "Dion", "minDice": 5, "maxDice": 8, "uses": 2},
+    {"heroID": 3, "heroName": "Anh", "minDice": 4, "maxDice": 9, "uses": 3},
+    {"heroID": 4, "heroName": "Karen", "minDice": 7, "maxDice": 8, "uses": 1}
     ],
     "Villain" : [
-    { "VillainID": 1, "villanName": "BadGuy1", "AttackPoints":2},
-    { "VillainID": 2, "villanName": "BadGuy2", "AttackPoints":4},
-    { "VillainID": 3, "villanName": "BadGuy3", "AttackPoints":6}
+    { "villainID": 1, "villanName": "BadGuy1", "attackPoints":2},
+    { "villainID": 2, "villanName": "BadGuy2", "attackPoints":4},
+    { "villainID": 3, "villanName": "BadGuy3", "attackPoints":6}
     ],
        "Game" : [
     {"gameTime":"21/02/2021","winner":"Villains Won"},
